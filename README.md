@@ -1,18 +1,18 @@
-## AYE Loader CS:GO Cheats Repository
-![](https://img.shields.io/badge/support-t.me/ayeahkloader-brightgreen) ![](https://img.shields.io/badge/author-t.me/zrn1x-critical)
+## FET Loader CS:GO Cheats Repository
+![](https://img.shields.io/badge/support-t.me/fetahkloader-brightgreen) ![](https://img.shields.io/badge/author-t.me/zrn1x-critical)
 
-This repository adds new cheats and brings back deleted cheats into AYE Loader!
-## How to add it in AYE Loader?
+This repository adds new cheats and brings back deleted cheats into FET Loader!
+## How to add it in FET Loader?
  1. Make sure that you using last version of injector
- 2. Go to C:\AYE\
+ 2. Go to C:\FET Loader\
  3. Open config.ini
- 4. Replace `clangremlini/ayeloader-dll-repo` with `{GITHUB USERNAME}/ayeloader-dll-repo`
- Example: `cheatrepo={GITHUB USERNAME}/ayeloader-dll-repo`
+ 4. Replace `clangremlini/fetloader-dll-repo` with `{GITHUB USERNAME}/fetloader-dll-repo`
+ Example: `cheatrepo={GITHUB USERNAME}/fetloader-dll-repo`
  6. Restart injector.
 
 ## What if i have empty cheat list or ERROR?
 Make sure you entered variable without spaces, and recheck the link.
-If you think there is no errors, remove folder C:\AYE\ and restart injector, then repeat all the steps
+If you think there is no errors, remove folder C:\FET Loader\ and restart injector, then repeat all the steps
 
 ## How do i make the same repository?
 
@@ -31,7 +31,7 @@ If you think there is no errors, remove folder C:\AYE\ and restart injector, the
  
  ![](https://i.imgur.com/KH6sKqa.png)
  
- 12. Now, if you want to use your repository, you need to replace `clangremlini/ayeloader-dll-repo` with your repository name.
+ 12. Now, if you want to use your repository, you need to replace `clangremlini/fetloader-dll-repo` with your repository name.
 
 Example of `cheats.ini` file:
 
