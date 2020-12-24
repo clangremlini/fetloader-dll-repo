@@ -24,10 +24,12 @@ If you think there is no errors, remove folder C:\FET Loader\ and restart inject
  Example: if you have cheat, named Aimware and dll name is aimware_crack.dll, you need to write `Aimware=aimware_crack.dll`
  6. Repeat 5 step for all cheats
  7. After cheat strings add `[cheatlist]`
- 8. Write `cheatlist=` and write every cheat name with `|` divider, then write |Load DLL
- Example: if you have cheats named Aimware, Nixware and Skeet, write `cheatlist=Aimware|Nixware|Skeet|Load DLL`
- 9. Place a new string (important!)
- 10. Find out your repository name. It is positioned as in screenshot.
+ 8. Write `cheatlist=` and write every cheat name with `|` divider, then write |Custom
+ Example: if you have cheats named Aimware, Nixware and Skeet, write `cheatlist=Aimware|Nixware|Skeet|Custom`
+ 9. After `[cheatlist]` string add `[status]`
+ 10. Write for each cheat detect status (`UNDETECT`, `DETECT`, `Use at own risk`). If you don't know, write `Use at own risk` on each cheat
+ 11. Place a new string (important!)
+ 12. Find out your repository name. It is positioned as in screenshot.
  
  ![](https://i.imgur.com/KH6sKqa.png)
  
@@ -35,7 +37,7 @@ If you think there is no errors, remove folder C:\FET Loader\ and restart inject
 
 Example of `cheats.ini` file:
 
-  ![](https://i.imgur.com/RSJBiOG.png)
+  ![](https://files.catbox.moe/0z3502.jpg)
 
 
 
