@@ -1,5 +1,5 @@
 ## Unofficial FET Loader repository
-![](https://img.shields.io/badge/support-t.me/fetahkloader-brightgreen) ![](https://img.shields.io/badge/author-t.me/zrn1x-critical)
+![](https://img.shields.io/badge/support-t.me/fetahkloader-brightgreen) ![](https://img.shields.io/badge/author-t.me/zrn1x-critical) ![](https://img.shields.io/badge/fork%20author-t.me/g42ftw-blue)
 
 All credits goes to software developers.
 This repository removes cheats which are rarely used by @g42ftw. Also it adds a unique Osiris HvH edition (has a better interface and some additional backtrack/rage/anti-aim features but hasn't got any updates since September) and original Osiris is now being constantly updated.
