@@ -14,4 +14,18 @@ This repository removes cheats which are rarely used by @g42ftw. Also it adds a 
 Make sure you entered variable without spaces and also recheck the repo link.
 Go blame @g42ftw in Telegram if something goes wrong again and again.
 
+## Cheat list
+
+**OTC2** - Onetap V2 crack. Legit+Rage. *May be detected.* Not updating.
+
+**OTC3** - Onetap V3 crack. Legit+Rage. *Undetected.* Not updating.
+
+**Osiris** - IMO #1 legit cheat. Legit. *Undetected.* Updating constantly.
+
+**Osiris HvH** - same but with rage features. Legit+Rage. *Undetected.* Main Osiris' configs are incompatible with this build.
+
+**FTC** - fatality.win V1 crack. Legit+Rage. *May be detected.* Not updating.
+
+**Aurora** - Aurora Free cheat. Legit. *Undetected.* Updating rarely.
+
 ## Good luck, my little hacker!
