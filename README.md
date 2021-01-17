@@ -27,6 +27,7 @@ Go blame @g42ftw in Telegram if something goes wrong again and again.
 **FTC** - fatality.win V1 crack. Legit+Rage. *May be detected.* Not updating.
 
 **Memedora** - crack of Pandora crack. Legit+Rage. *Undetected.* Not updating.
+**Make sure you've created a `pdr` folder in Documents or else cheat won't work properly!**
 
 **Aurora** - Aurora Free cheat. Legit. *Undetected.* Being updated rarely.
 
